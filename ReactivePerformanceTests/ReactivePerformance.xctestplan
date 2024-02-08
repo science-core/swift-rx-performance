@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "67C75B24-9C6E-4373-8C7C-854CA84D8031",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ReactivePerformance.xcodeproj",
+      "identifier" : "5B8FE1DA2B334F51008D2050",
+      "name" : "ReactivePerformance"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ReactivePerformance.xcodeproj",
+        "identifier" : "5B8FE1EA2B334F54008D2050",
+        "name" : "ReactivePerformanceTests"
+      }
+    }
+  ],
+  "version" : 1
+}
